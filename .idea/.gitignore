@@ -1,0 +1,10 @@
+# Default ignored files
+/../../assingment1./.idea/shelf/
+/../../assingment1./.idea/workspace.xml
+# Ignored default folder with query files
+/../../assingment1./.idea/queries/
+# Datasource local storage ignored files
+/../../assingment1./.idea/dataSources/
+/../../assingment1./.idea/dataSources.local.xml
+# Editor-based HTTP Client requests
+/../../assingment1./.idea/httpRequests/
