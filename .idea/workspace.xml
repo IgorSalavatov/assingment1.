@@ -4,13 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f5045ef6-88f0-4323-a5de-194192ce0a88" name="Changes" comment="aaaa">
-      <change afterPath="$PROJECT_DIR$/../assingment1/src/assingment1/Main.java" afterDir="false" />
+    <list default="true" id="f5045ef6-88f0-4323-a5de-194192ce0a88" name="Changes" comment="assingment1OnlineShoppingSystem">
+      <change afterPath="$PROJECT_DIR$/../assingment1/src/assingment1/ShopManager.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../assingment1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../assingment1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assingment1/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assingment1/src/customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../assingment1/src/assingment1/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assingment1/src/item.java" beforeDir="false" afterPath="$PROJECT_DIR$/../assingment1/src/assingment1/Item.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assingment1/src/order.java" beforeDir="false" afterPath="$PROJECT_DIR$/../assingment1/src/assingment1/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assingment1/src/assingment1/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../assingment1/src/assingment1/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assingment1/src/assingment1/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/../assingment1/src/assingment1/Item.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assingment1/src/assingment1/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/../assingment1/src/assingment1/Order.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +86,10 @@
       <workItem from="1765947858766" duration="1791000" />
       <workItem from="1765972657444" duration="145000" />
       <workItem from="1765972833471" duration="825000" />
-      <workItem from="1766021948857" duration="2659000" />
+      <workItem from="1766021948857" duration="2936000" />
+      <workItem from="1766076899466" duration="489000" />
+      <workItem from="1766127824393" duration="2486000" />
+      <workItem from="1767095353812" duration="869000" />
     </task>
     <task id="LOCAL-00001" summary="aaaa">
       <option name="closed" value="true" />
@@ -97,7 +99,15 @@
       <option name="project" value="LOCAL" />
       <updated>1765950226667</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="assingment1OnlineShoppingSystem">
+      <option name="closed" value="true" />
+      <created>1766032252676</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1766032252677</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,6 +115,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="aaaa" />
-    <option name="LAST_COMMIT_MESSAGE" value="aaaa" />
+    <MESSAGE value="assingment1OnlineShoppingSystem" />
+    <option name="LAST_COMMIT_MESSAGE" value="assingment1OnlineShoppingSystem" />
   </component>
 </project>
